@@ -1,4 +1,4 @@
-package org.example.spring_repeat.annotation;
+package org.example.spring_repeat.validation.annotation;
 
 import jakarta.validation.Constraint;
 import jakarta.validation.Payload;

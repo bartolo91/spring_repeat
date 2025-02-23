@@ -8,7 +8,7 @@ import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
-import org.example.spring_repeat.annotation.CheckId;
+import org.example.spring_repeat.validation.annotation.CheckId;
 import org.example.spring_repeat.model.Doctor;
 import org.example.spring_repeat.model.Patient;
 import org.example.spring_repeat.repository.DoctorRepository;
